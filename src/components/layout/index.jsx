@@ -1,4 +1,4 @@
-import Sidebar from "../Siderbar/index.jsx";
+import Sidebar from "../Sidebar/index.jsx";
 import { Outlet } from "react-router-dom";
 
 export default function Layout() {
