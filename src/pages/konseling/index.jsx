@@ -5,7 +5,7 @@ export default function Konseling() {
     <div className="flex flex-col gap-5">
       <h1 className="text-xl font-bold">Konseling</h1>
       <div className="bg-white p-5 rounded-lg shadow-md w-full h-full">
-        <h2 className="text-lg font-bold mb-4">Data Konselings</h2>
+        <h2 className="text-lg font-bold mb-4">Data Konseling</h2>
         <Table>
           <Table.Head>
             <Table.Row>

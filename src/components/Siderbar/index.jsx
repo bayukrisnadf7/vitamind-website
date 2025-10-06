@@ -5,12 +5,12 @@ import { NavLink } from "react-router-dom";
 
 const Sidebar = () => {
   return (
-    <div className="w-64 h-full bg-[#56B3FD] text-white p-4">
+    <div className="w-64 bg-[#56B3FD] text-white p-4">
       <div className="flex gap-3 justify-center items-center">
         <img src="images/logo.png" alt="logo" width={50} className="rounded-full" />
         <h2 className="text-2xl font-bold">VitaMind</h2>
       </div>
-      <div className="flex flex-col h-full justify-between">
+      <div className="flex flex-col justify-between">
         <ul className="mt-8 font-semibold">
           <li>
             <NavLink
@@ -56,7 +56,7 @@ const Sidebar = () => {
         </ul>
 
         {/* Logout */}
-        <ul className="font-semibold mb-10">
+        <ul className="font-semibold absolute bottom-4 w-56">
           <li>
             <NavLink
               to="/logout"
