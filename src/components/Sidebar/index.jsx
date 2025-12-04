@@ -7,14 +7,14 @@ const Sidebar = () => {
   return (
     <div className="w-64 bg-[#56B3FD] text-white p-4">
       <div className="flex gap-3 justify-center items-center">
-        <img src="images/logo.png" alt="logo" width={50} className="rounded-full" />
+        <img src="/images/logo.png" alt="logo" width={50} className="rounded-full" />
         <h2 className="text-2xl font-bold">VitaMind</h2>
       </div>
       <div className="flex flex-col justify-between">
         <ul className="mt-8 font-semibold">
           <li>
             <NavLink
-              to="/dashboard"
+              to="/"
               className={({ isActive }) =>
                 `mb-2 p-3 rounded-xl text-lg flex gap-3 items-center transition ${
                   isActive ? "bg-white text-[#56B3FD]" : "hover:bg-white hover:text-[#56B3FD]"
@@ -59,7 +59,7 @@ const Sidebar = () => {
         <ul className="font-semibold absolute bottom-4 w-56">
           <li>
             <NavLink
-              to="/logout"
+              to="/login"
               className={({ isActive }) =>
                 `p-3 rounded-xl text-lg flex gap-3 items-center transition ${
                   isActive ? "bg-white text-[#56B3FD]" : "hover:bg-white hover:text-[#56B3FD]"

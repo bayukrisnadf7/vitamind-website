@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "nama": "Bayu Krisna",
+    "email": "bayu@gmail.com",
+    "nip_nim": "E41220691",
+    "jenis_kelamin": "Laki-Laki",
+    "date": "2025-12-01",
+    "aksi": {
+      "download": true,
+      "edit": true
+    }
+  },
+  {
+    "id": 2,
+    "nama": "Siti Aminah",
+    "email": "siti.aminah@example.com",
+    "nip_nim": "F33190102",
+    "jenis_kelamin": "Perempuan",
+    "date": "2025-12-01",
+    "aksi": {
+      "download": true,
+      "edit": true
+    }
+  },
+  {
+    "id": 3,
+    "nama": "Joko Susilo",
+    "email": "joko.s@mail.net",
+    "nip_nim": "E41220692",
+    "jenis_kelamin": "Laki-Laki",
+    "date": "2025-12-01"
+  },
+  {
+    "id": 4,
+    "nama": "Rina Lestari",
+    "email": "rina.l@domain.id",
+    "nip_nim": "F33190103",
+    "jenis_kelamin": "Perempuan",
+    "date": "2025-12-01"
+  },
+  {
+    "id": 5,
+    "nama": "Ahmad Rizky",
+    "email": "ahmad.rizky@web.co",
+    "nip_nim": "E41220693",
+    "jenis_kelamin": "Laki-Laki",
+    "date": "2025-12-01"
+  },
+  {
+    "id": 6,
+    "nama": "Dewi Sartika",
+    "email": "dewi.s@inbox.com",
+    "nip_nim": "F33190104",
+    "jenis_kelamin": "Perempuan",
+    "date": "2025-12-01"
+  },
+  {
+    "id": 7,
+    "nama": "Budi Hartono",
+    "email": "budi.h@tech.biz",
+    "nip_nim": "E41220694",
+    "jenis_kelamin": "Laki-Laki",
+    "date": "2025-12-01"
+  },
+  {
+    "id": 8,
+    "nama": "Maya Rahma",
+    "email": "maya.r@data.org",
+    "nip_nim": "F33190105",
+    "jenis_kelamin": "Perempuan",
+    "date": "2025-12-01"
+  },
+  {
+    "id": 9,
+    "nama": "Cahyo Utomo",
+    "email": "cahyo.u@digital.me",
+    "nip_nim": "E41220695",
+    "jenis_kelamin": "Laki-Laki",
+    "date": "2025-12-01"
+  },
+  {
+    "id": 10,
+    "nama": "Linda Wati",
+    "email": "linda.w@asia.net",
+    "nip_nim": "F33190106",
+    "jenis_kelamin": "Perempuan",
+    "date": "2025-12-01"
+  }
+]
